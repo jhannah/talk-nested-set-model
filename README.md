@@ -1,6 +1,6 @@
 # Hierarchical data in RDBMS... SoEasy!
 
-Jay's talk about [nested set model](https://en.wikipedia.org/wiki/Nested_set_model)
+Jay's live demos from his talk about [nested set model](https://en.wikipedia.org/wiki/Nested_set_model)
 featuring [DBIx::Class::Tree::NestedSet](https://metacpan.org/pod/DBIx::Class::Tree::NestedSet).
 
 ## Recommended Perlishness
