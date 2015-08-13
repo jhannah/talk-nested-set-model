@@ -18,3 +18,7 @@ nytprof.out
 *.o
 *.bs
 /_eumm/
+
+# Don't put the database into git:
+*.sqlite3
+
