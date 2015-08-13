@@ -24,7 +24,7 @@ sqlite3 db/db.sqlite3 < db/schema.sql
 script/refresh_schema.pl
 ````
 
-Add Tree::NestedSet directives to bottom of lib/MyApp/Schema/Result/Taxonomy.pm
+Add [Tree::NestedSet directives](https://github.com/jhannah/talk-nested-set-model/blob/master/lib/MyApp/Schema/Result/Taxonomy.pm#L90-L96) to the bottom of lib/MyApp/Schema/Result/Taxonomy.pm
 
 All done!  :)
 
