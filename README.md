@@ -1,7 +1,7 @@
 # Hierarchical data in RDBMS... SoEasy!
 
 Jay's talk about [nested set model](https://en.wikipedia.org/wiki/Nested_set_model)
-and using it via [DBIx::Class::Tree::NestedSet](https://metacpan.org/pod/DBIx::Class::Tree::NestedSet).
+featuring [DBIx::Class::Tree::NestedSet](https://metacpan.org/pod/DBIx::Class::Tree::NestedSet).
 
 ## Recommended install
 
