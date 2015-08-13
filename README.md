@@ -9,7 +9,13 @@ featuring [DBIx::Class::Tree::NestedSet](https://metacpan.org/pod/DBIx::Class::T
 manage your perl installs. Using system perl can cause pain. 
 * Use the current stable perl because... why not? :) e.g. `perlbrew install 5.22.0`
 * Use [cpanm](https://metacpan.org/pod/App::cpanminus) to install CPAN dependencies
-* `cpanm DBIx::Class::Tree::NestedSet` should give you the full stack you need to run the `scripts/` in this talk.
+
+The following should give you the full stack you need:
+
+````
+cpanm DBIx::Class::Tree::NestedSet
+cpanm DBIx::Class::Schema::Loader
+````
 
 ## Rebuilding from scratch
 
