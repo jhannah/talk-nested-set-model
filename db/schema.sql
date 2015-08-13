@@ -7,6 +7,6 @@ CREATE TABLE taxonomies (
   level    integer NOT NULL,
 
   -- Whatever columns we want
-  name     text NOT NULL
+  name     text    NOT NULL
 );
 
