@@ -28,4 +28,8 @@ Add [Tree::NestedSet directives](https://github.com/jhannah/talk-nested-set-mode
 
 All done!  :)
 
+## et. al. 
+
+* Want to try nested sets in Ruby? Check out [awesome_nested_set](https://github.com/collectiveidea/awesome_nested_set), let us know what you think. 
+* [Postgres Tree Shootout](http://schinckel.net/2014/11/22/postgres-tree-shootout-part-1%3A-introduction./) is an interesting(?) series(?) of blog articles posts about Adjacency Lists, Path Enumeration, Closure Table, Nested Set in PostgreSQL.
 
