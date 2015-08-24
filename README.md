@@ -3,6 +3,8 @@
 Jay's live demos from his talk about [nested set model](https://en.wikipedia.org/wiki/Nested_set_model)
 featuring [DBIx::Class::Tree::NestedSet](https://metacpan.org/pod/DBIx::Class::Tree::NestedSet).
 
+[Watch the talk on YouTube](https://youtu.be/CS-TvaNpsW8)
+
 ## Recommended Perlishness
 
 * Use [Perlbrew](perlbrew.pl) (or [plenv](https://github.com/tokuhirom/plenv)) to
